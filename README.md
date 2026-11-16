@@ -65,3 +65,7 @@ Prepared on `feature/post-launch-website`, based on the merged launch update. No
 Open home, features and help at phone and desktop widths. Check store/QR links, FAQ disclosure controls, section navigation and policy-header download links. Scan the codes with a physical phone. Hosting configuration is unchanged.
 
 The policy review remains in [legal-review-2026-10-20.md](./legal-review-2026-10-20.md); this website content update does not resolve backend retention, release or policy-acceptance operations.
+
+## Free vendor profile marketing (feature branch)
+
+The home page and marketing page describe a free public vendor profile for one business, with service listings and discovery visibility. Subscribed businesses appear first in discovery; hosts can inquire only with vendors whose subscriptions are active. Basic and Pro remain paid plans. This copy is staged on `feature/free-vendor-profile-marketing` and is not published until merged/deployed.
